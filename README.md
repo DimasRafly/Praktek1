@@ -1,21 +1,21 @@
 # Praktek1
 Modul 1 Latihan 1
-![alt text] (https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_1.png)
+![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_1.png)
 
 Modul 1 Latihan 2
-![alt text] (https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_2.png)
+![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_2.png)
 
 Modul 1 Latihan 3
-![alt text] (https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_3.png)
+![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_3.png)
 
 Modul 1 Latihan 4
-![alt text] (https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_4.png)
+![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_4.png)
 
 Modul 1 Latihan 5
-![alt text] (https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_5.png)
+![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_5.png)
 
 Modul 1 Latihan Variabel Hasil
-![alt text] (https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_variabel%20hasil.png)
+![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul1/modul1_variabel%20hasil.png)
 
 Modul 2 Latihan 1
 ![alt text](https://github.com/DimasRafly/Praktek1/blob/master/Modul2/modul2_1.png)
